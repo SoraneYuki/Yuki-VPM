@@ -1,6 +1,6 @@
 {
   "name": "soraneyuki.febucci.custom-hierarchy",
-  "displayName": "soraneyuki.customhierarchy.febucci",
+  "displayName": "Custom Hierarchy (From Febucci)",
   "version": "1.2.0",
   "description": "From Febucci\nUnity package to help having a clearer Hierarchy view, organizing everything in a \u201ctree view\u201d and including extra informations like Components Icons and groups/divisors.",
   "gitDependencies": {},
