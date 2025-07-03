@@ -105,13 +105,7 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
-    "com.vrchat.demo-template": {
-      "version": "file:com.vrchat.demo-template",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "soraneyuki.customhierarchy.febucci": {
+    "soraneyuki.febucci.custom-hierarchy": {
       "version": "file:soraneyuki.customhierarchy.febucci",
       "depth": 0,
       "source": "embedded",
