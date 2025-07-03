@@ -1,0 +1,15 @@
+{
+  "name": "soraneyuki.customhierarchy.febucci",
+  "displayName": "soraneyuki.customhierarchy.febucci",
+  "version": "1.2.0",
+  "description": "Unity package to help having a clearer Hierarchy view, organizing everything in a \u201ctree view\u201d and including extra informations like Components Icons and groups/divisors.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "febucci",
+    "email": "hello@febucci.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\hatsu\\Documents\\GitHub\\Yuki-VPM\\Packages\\soraneyuki.customhierarchy.febucci"
+}

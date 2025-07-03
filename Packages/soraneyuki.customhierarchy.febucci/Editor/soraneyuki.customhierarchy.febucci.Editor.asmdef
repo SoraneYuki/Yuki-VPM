@@ -1,0 +1,14 @@
+{
+  "name": "soraneyuki.customhierarchy.febucci.Editor",
+  "references": [
+    "soraneyuki.customhierarchy.febucci"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
